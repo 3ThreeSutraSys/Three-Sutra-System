@@ -1,0 +1,61 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.bak
+~$*
+*.lock
+node_modules/
+
+# 图片和多媒体
+*.jpeg
+*.jpg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.svg
+*.mp4
+*.mov
+*.avi
+*.wav
+*.mp3
+
+# 文档和压缩文件
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+*.pdf
+*.epub
+*.mobi
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# 代码和配置
+.env
+*.env.local
+*.key
+*.pem
+*.crt
+*.cer
+config.json
+secrets.json
+
+# IDE 和编辑器
+.vscode/
+.idea/
+*.sublime-*
+
+# 操作系统
+*.lnk
+*.url
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
